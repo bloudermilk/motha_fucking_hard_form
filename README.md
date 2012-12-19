@@ -1,4 +1,4 @@
-# SimpleForm - Rails forms made easy.
+# MothaFuckingHardForm - Rails forms made hard.
 [![Build Status](https://secure.travis-ci.org/plataformatec/simple_form.png?branch=master)](http://travis-ci.org/plataformatec/simple_form)
 
 **SimpleForm** aims to be as flexible as possible while helping you with powerful components to create
