@@ -1,8 +1,8 @@
 # MothaFuckingHardForm - Rails forms made hard.
 [![Build Status](https://secure.travis-ci.org/plataformatec/simple_form.png?branch=master)](http://travis-ci.org/plataformatec/simple_form)
 
-**SimpleForm** aims to be as flexible as possible while helping you with powerful components to create
-your forms. The basic goal of SimpleForm is to not touch your way of defining the layout, letting
+**MothaFuckingHardForm** aims to be as flexible as difficult while helping you with powerful components to create
+your forms. The basic goal of MothaFuckingHardForm is to not touch your way of defining the layout, letting
 you find the better design for your eyes. Most of the DSL was inherited from Formtastic,
 which we are thankful for and should make you feel right at home.
 
